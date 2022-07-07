@@ -11,7 +11,7 @@ En este ejercicio se pide realizar un script que calcule el factorial de un núm
 El Objetivo principal de este ejercicio es el uso de bucle y funciones con parámetros en Javascript.
 
 ## URL para ver el resultado 🌐
-
+https://sergioalvarezpro.github.io/Factorial-numero/
 
 ## Instalación 🛠️
 Este proyecto no requiere de instalación. Puedes ver el resultado haciendo click en el enlace del apartado anterior "URL para ver el resultado".
